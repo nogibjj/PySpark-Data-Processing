@@ -1,17 +1,22 @@
 # IDS_706-Data_Engineering_Systems
-## Mini-Project 5 : Python Script interacting with SQL Database
-
-
+## Mini-Project 10 : PySpark Data Processing
 
 ***
 
 #### Purpose
 
-This project is for a data engineering course (Mini-Project 5). It involves the use of a Python script to interact with an SQL database. The project also implements continuous integration through GitHub Actions to automate the setup of the environment, perform testing, code formatting, and code linting.
+This mini project, part of the Data Engineering class, leverages PySpark to execute data processing tasks on a large dataset. It encompasses a Spark SQL query and a data transformation operation to enhance data analysis and insights.
 
 ***
 
-#### ETL-Query Operations
+#### Requirements
+
+1. Utilize PySpark for data processing on a substantial dataset.  
+2. Incorporate a Spark SQL query and a data transformation.
+
+***
+
+#### ETL
 
 Extract (E): Retrieves a dataset in CSV format from a specified URL.  
 Transform (T): Cleans, filters, and enriches the extracted data, preparing it for analysis.  
