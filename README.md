@@ -1,11 +1,10 @@
-# IDS_706-Data_Engineering_Systems
-## Mini-Project 10 : PySpark Data Processing
+# PySpark Data Processing
 
 ***
 
 #### Purpose
 
-This mini project, part of the Data Engineering class, leverages PySpark to execute data processing tasks on a large dataset. It encompasses a Spark SQL query and a data transformation operation to enhance data analysis and insights.
+This project leverages PySpark to execute data processing tasks on a large dataset. It encompasses a Spark SQL query and a data transformation operation to enhance data analysis and insights.
 
 ***
 
